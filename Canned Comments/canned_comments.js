@@ -57,7 +57,7 @@ callback([
 		},
 		{
 			"name": "[Q] Insufficient Code Example",
-			"description": "Questions seeking debugging help ("**why isn't this code working?**") must include the desired behavior, a specific problem or error and the shortest code necessary to reproduce it **in the question itself**. Questions without a **clear problem statement** are not useful to other readers. See: [mcve]"
+			"description": "Questions seeking debugging help (why isn't this code working?) must include the desired behavior, a specific problem or error and the shortest code necessary to reproduce it **in the question itself**. Questions without a **clear problem statement** are not useful to other readers. See: [mcve]"
 		},
 		{
 			"name": "[C] Self-answers in a comment",
