@@ -40,12 +40,8 @@ callback([
 			"description": "The tags you were using are not appropriate for this question. Please review <a href=\"//$SITEURL$/help/tagging\">What are tags, and how should I use them?</a>"
 		},
 		{
-			"name": "[Q] Website is " broken ", no code in question, just link to site",
+			"name": "[Q] Website is \" broken \", no code in question, just link to site",
 			"description": "Please add meaningful code and a problem description here. Don't just link to the site that needs fixing — otherwise, this question will lose any value to future visitors once the problem is solved or if the site you're linking to is inaccessible. Posting a [Minimal, Complete, and Verifiable example (MCVE)](https://stackoverflow.com/help/mcve) that demonstrates your problem would help you get better answers. For more info, see [Something on my web site doesn't work. Can I just paste a link to it?](https://meta.stackexchange.com/questions/125997/) Thanks!"
-		},
-		{
-			"name": "[Q] Website is "broken", no code in question, just link to site",
-			"description": "Please add meaningful code and a problem description here. Don't just link to the site that needs fixing — otherwise, this question will lose any value to future visitors once the problem is solved or if the site you're linking to is inaccessible. Posting a [mcve] that demonstrates your problem would help you get better answers. For more info, see [Something on my web site doesn't work. Can I just paste a link to it?](https://meta.stackexchange.com/questions/125997/)"
 		},
 		{
 			"name": "[Q] Needs to demonstrate research",
@@ -57,7 +53,7 @@ callback([
 		},
 		{
 			"name": "[Q] Insufficient Code Example",
-			"description": "Questions seeking debugging help ("**why isn't this code working?**") must include the desired behavior, a specific problem or error and the shortest code necessary to reproduce it **in the question itself**. Questions without a **clear problem statement** are not useful to other readers. See: [mcve]"
+			"description": "Questions seeking debugging help (why isn't this code working?) must include the desired behavior, a specific problem or error and the shortest code necessary to reproduce it **in the question itself**. Questions without a **clear problem statement** are not useful to other readers. See: [mcve]"
 		},
 		{
 			"name": "[C] Self-answers in a comment",
